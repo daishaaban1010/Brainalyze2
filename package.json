@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "vercel-build": "cd brainalyze && npm ci && npm run build"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.9.6"
+  }
+}
